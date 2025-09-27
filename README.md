@@ -5,7 +5,7 @@ The goal is to extract global economic insights, identify growth trends, and des
 
 The dataset was sourced from Kaggle.
 
-🛠 Data Cleaning & Preparation
+# 🛠 Data Cleaning & Preparation
 
 Data was cleaned and transformed using Power Query in Power BI:
 
@@ -17,35 +17,35 @@ Handled Missing Values – Replaced/removed NaNs for incomplete years (2024–20
 
 Created Measures – DAX measures for growth %, CAGR, absolute growth, and forecasting.
 
-📈 Business Questions & Insights
+# 📈 Business Questions & Insights
 
 The dashboard answers the following key questions:
 
-🌍 Global Trends
+# 🌍 Global Trends
 
 How has the world’s GDP evolved from 2000 to 2025?
 
 Which years show major drops or spikes (e.g., 2008 financial crisis, 2020 pandemic)?
 
-🏆 Top Performers
+# 🏆 Top Performers
 
 Which 5 countries had the highest GDP in 2023?
 
 Which 5 countries grew the fastest (in % growth) from 2000 to 2023?
 
-🌐 Continental Analysis
+# 🌐 Continental Analysis
 
 Which continent contributes the most to global GDP?
 
 Which continent has shown the fastest growth rate over time?
 
-🔮 Forecast & Patterns
+# 🔮 Forecast & Patterns
 
 Projected GDP growth for US, China, India, Germany, Brazil in 2025.
 
 Identify countries with long-term upward or downward patterns.
 
-📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 
 The dashboard contains:
 
@@ -56,18 +56,18 @@ Column/Bar Charts – Top countries by GDP, fastest growing countries, growth by
 Forecast Visuals – GDP projections for 2025.
 <img width="1285" height="738" alt="image" src="https://github.com/user-attachments/assets/cc9680d3-24dc-4cd6-a1e9-2404c677e542" />
 
-🚀 Tools & Technologies
+# 🚀 Tools & Technologies
 
 Power BI (Data Cleaning, DAX Measures, Visualization)
 
 GitHub – Project Documentation
 
-📌 Key Insights
+# 📌 Key Insights
 
-The US & China dominate absolute GDP growth, adding over $17 trillion each since 2000.
+The US & China dominate absolute GDP growth, each adding over $17 trillion since 2000.
 
-Guyana, Turkmenistan, Mongolia, China, and Kazakhstan are the fastest-growing countries in % terms.
+India, Germany, and Russia join the top 5 in absolute growth, highlighting their major role in shaping the global economy.
+
+Guyana, Turkmenistan, Mongolia, China, and Kazakhstan are the fastest-growing countries in % growth terms, driven by smaller 2000 baselines but rapid expansion.
 
 Asia has been the fastest-growing continent, while North America & Europe remain top contributors by absolute GDP.
-
-Some countries show negative or stagnant CAGR, highlighting structural challenges.
