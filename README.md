@@ -62,5 +62,12 @@ Power BI (Data Cleaning, DAX Measures, Visualization)
 
 GitHub – Project Documentation
 
+📌 Key Insights
 
+The US & China dominate absolute GDP growth, adding over $17 trillion each since 2000.
 
+Guyana, Turkmenistan, Mongolia, China, and Kazakhstan are the fastest-growing countries in % terms.
+
+Asia has been the fastest-growing continent, while North America & Europe remain top contributors by absolute GDP.
+
+Some countries show negative or stagnant CAGR, highlighting structural challenges.
