@@ -56,3 +56,11 @@ Column/Bar Charts – Top countries by GDP, fastest growing countries, growth by
 Forecast Visuals – GDP projections for 2025.
 <img width="1285" height="738" alt="image" src="https://github.com/user-attachments/assets/cc9680d3-24dc-4cd6-a1e9-2404c677e542" />
 
+🚀 Tools & Technologies
+
+Power BI (Data Cleaning, DAX Measures, Visualization)
+
+GitHub – Project Documentation
+
+
+
