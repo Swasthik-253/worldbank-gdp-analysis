@@ -16,3 +16,31 @@ Data Types Fixed – Converted GDP column to Fixed Decimal Number and Year to Wh
 Handled Missing Values – Replaced/removed NaNs for incomplete years (2024–2025).
 
 Created Measures – DAX measures for growth %, CAGR, absolute growth, and forecasting.
+
+📈 Business Questions & Insights
+
+The dashboard answers the following key questions:
+
+🌍 Global Trends
+
+How has the world’s GDP evolved from 2000 to 2025?
+
+Which years show major drops or spikes (e.g., 2008 financial crisis, 2020 pandemic)?
+
+🏆 Top Performers
+
+Which 5 countries had the highest GDP in 2023?
+
+Which 5 countries grew the fastest (in % growth) from 2000 to 2023?
+
+🌐 Continental Analysis
+
+Which continent contributes the most to global GDP?
+
+Which continent has shown the fastest growth rate over time?
+
+🔮 Forecast & Patterns
+
+Projected GDP growth for US, China, India, Germany, Brazil in 2025.
+
+Identify countries with long-term upward or downward patterns.
