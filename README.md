@@ -44,3 +44,13 @@ Which continent has shown the fastest growth rate over time?
 Projected GDP growth for US, China, India, Germany, Brazil in 2025.
 
 Identify countries with long-term upward or downward patterns.
+
+📊 Power BI Dashboard
+
+The dashboard contains:
+
+Line Chart – Global GDP trend (2000–2025).
+
+Column/Bar Charts – Top countries by GDP, fastest growing countries, growth by continent.
+
+Forecast Visuals – GDP projections for 2025.
